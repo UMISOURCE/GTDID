@@ -87,6 +87,11 @@ website:
           - text: "🇸🇳 Wolof"
             href: "#sn"
 
+      # ⭐ Ajout de l'icône GitHub ici
+      - icon: github
+        href: "https://github.com/UMISOURCE/GTDID"
+        aria-label: "GitHub repository"
+        tooltip: "Dépôt GitHub"
 
 format:
   html:
