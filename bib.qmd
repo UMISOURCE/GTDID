@@ -1,7 +1,0 @@
----
-title: "Références BibTeX GTDID"
-author: "Alexandre Mathieu"
-bibliography: bibliography.bib
-output: html_document
----
-
