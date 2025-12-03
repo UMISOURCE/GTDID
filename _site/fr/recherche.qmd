@@ -1,9 +1,0 @@
----
-title: "Bienvenue"
----
-
-# 🇫🇷 Bienvenue sur mon site
-
-Ceci est la version **française** du site.
-
-Utilise le menu ci-dessus pour naviguer entre les pages.

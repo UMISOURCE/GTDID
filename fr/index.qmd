@@ -29,7 +29,7 @@ Le Groupe de travail sur les disparités et inégalités doctorales (GTDID) réu
 
 Cette initiative vise à documenter et analyser les inégalités dans la recherche scientifique, avec un accent particulier sur les disparités entre les Nords et les Suds. L'objectif central du GTDID est d’examiner les inégalités doctorales afin de répondre à une question essentielle : comment mener des recherches robustes dans des contextes structurellement inégaux ?
 
-## Science ouverte et souveraineté scientifique : un levier, mais aussi un espace potentiel d'inégalités
+## Science ouverte et souveraineté scientifique
 
 Le GTDID interroge le rôle de la science ouverte comme possible rempart aux asymétries scientifiques. Alors qu'elle est souvent présentée comme un instrument de démocratisation de la recherche, la science ouverte nécessite aussi des ressources, des infrastructures et des compétences qui font défaut dans de nombreux contextes des Suds - au risque de reproduire les dépendances et les vulnérabilités existantes.
 
