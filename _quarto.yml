@@ -78,6 +78,9 @@ website:
     # 🌐 MENU LANGUES (commmun)
     ########################################
     right:
+      - icon: github
+        href: "https://github.com/UMISOURCE/GTDID"
+        aria-label: "GitHub"
       - text: "🌐 Langue / Language"
         menu:
           - text: "🇫🇷 Français"
@@ -87,15 +90,9 @@ website:
           - text: "🇸🇳 Wolof"
             href: "#sn"
 
-      # ⭐ Ajout de l'icône GitHub ici
-      - icon: github
-        href: "https://github.com/UMISOURCE/GTDID"
-        aria-label: "GitHub repository"
-        tooltip: "Dépôt GitHub"
-
 format:
   html:
-    page-layout: article      # ← AJOUT ICI
+    page-layout: article      
     theme: cosmo
     css:
       - styles.css
