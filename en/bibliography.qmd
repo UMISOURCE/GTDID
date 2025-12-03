@@ -1,0 +1,32 @@
+---
+title: "📚 Bibliography"
+format:
+  html:
+    css:
+      - ../bibliographie.css
+---
+
+<div class="biblio-container">
+
+## 🔎 Search
+<input id="biblio-search" type="text" placeholder="Search references…" />
+
+## 🧭 Filters
+<div id="biblio-filters">
+  <button class="filter-btn active" data-type="all">All</button>
+  <button class="filter-btn" data-type="journalArticle">Articles</button>
+  <button class="filter-btn" data-type="book">Books</button>
+  <button class="filter-btn" data-type="report">Reports</button>
+  <button class="filter-btn" data-type="thesis">Theses</button>
+  <button class="filter-btn" data-type="newspaperArticle">Newspaper articles</button>
+</div>
+
+## 📄 References
+<div id="biblio-list">
+  <p>Loading Zotero references…</p>
+</div>
+
+</div>
+
+<script src="../zotero.js"></script>
+<script src="../_private/zotero_key.js"></script>

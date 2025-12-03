@@ -1,0 +1,8 @@
+---
+title: "About"
+---
+
+# About
+
+This is the English “About” page.\
+You can add your bio, research description, or anything else.

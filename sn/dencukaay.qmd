@@ -1,0 +1,33 @@
+---
+title: "📚 Dencukaay"
+format:
+  html:
+    css:
+      - ../bibliographie.css
+---
+
+<div class="biblio-container">
+
+## 🔎 Seet
+<input id="biblio-search" type="text" placeholder="Seet ci dencukaay yi…" />
+
+## 🧭 Daytal
+<div id="biblio-filters">
+  <button class="filter-btn active" data-type="all">Lépp</button>
+  <button class="filter-btn" data-type="journalArticle">Artikël</button>
+  <button class="filter-btn" data-type="book">Téere</button>
+  <button class="filter-btn" data-type="report">Rapoor</button>
+  <button class="filter-btn" data-type="thesis">Dés</button>
+  <button class="filter-btn" data-type="newspaperArticle">Artikël ci xibaar yi</button>
+</div>
+
+## 📄 Dencukaay yi
+<div id="biblio-list">
+  <p>Mi ngi yeb dencukaay yi…</p>
+</div>
+
+</div>
+
+<script src="../zotero.js"></script>
+<script src="../_private/zotero_key.js"></script>
+

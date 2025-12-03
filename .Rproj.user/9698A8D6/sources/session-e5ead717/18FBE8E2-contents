@@ -1,0 +1,100 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "GTDID"
+
+  navbar:
+    left:
+
+      ########################################
+      # 🇫🇷 ONGLET FRANÇAIS
+      ########################################
+      - text: "Présentation"
+        href: fr/index.qmd
+
+      - text: "Qui sommes-nous ?"
+        href: fr/contact.qmd
+
+      - text: "Cadre méthodologique"
+        href: fr/about.qmd
+
+      - text: "Enquête Sénégal"
+        href: fr/recherche.qmd
+
+      - text: "Gestion des données"
+        href: fr/donnees.qmd
+
+      - text: "📚 Bibliographie"
+        href: fr/bibliographie.qmd
+
+
+      ########################################
+      # 🇬🇧 ONGLET ANGLAIS
+      ########################################
+      - text: "Presentation"
+        href: en/index.qmd
+        
+      - text: "Who are we?"
+        href: en/contact.qmd
+        
+      - text: "Methodological framework"
+        href: en/about.qmd
+
+      - text: "Senegal Survey"
+        href: en/research.qmd
+
+      - text: "Data Managing"
+        href: en/data.qmd
+
+      - text: "📚 Bibliography"
+        href: en/bibliography.qmd
+
+
+      ########################################
+      # 🇸🇳 ONGLET WOLOF
+      ########################################
+      - text: "Xéewal"
+        href: sn/index.qmd
+        
+      - text: "Jokkondiral"
+        href: sn/contact.qmd
+        
+      - text: "Xam-xam"
+        href: sn/about.qmd
+
+      - text: "Jàng"
+        href: sn/recherche.qmd
+
+      - text: "Donnéyi"
+        href: sn/donnees.qmd
+
+      - text: "📚 Dencukaay"
+        href: sn/dencukaay.qmd
+
+
+    ########################################
+    # 🌐 MENU LANGUES (commmun)
+    ########################################
+    right:
+      - text: "🌐 Langue / Language"
+        menu:
+          - text: "🇫🇷 Français"
+            href: "#fr"
+          - text: "🇬🇧 English"
+            href: "#en"
+          - text: "🇸🇳 Wolof"
+            href: "#sn"
+
+
+format:
+  html:
+    page-layout: article      # ← AJOUT ICI
+    theme: cosmo
+    css:
+      - styles.css
+      - bibliographie.css
+    include-after-body:
+      - lang.html
+

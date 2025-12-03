@@ -1,0 +1,9 @@
+---
+title: "Welcome"
+---
+
+# 🇬🇧 Welcome to my website
+
+This is the **English** version of the site.
+
+Use the navigation bar to browse between pages.

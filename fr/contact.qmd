@@ -1,0 +1,78 @@
+---
+title: "Qui sommes-nous ?"
+---
+
+Le GTDID est issu d'un mouvement de doctorant.e.s et réunit aujourd'hui des doctorant.e.s, chercheur.euse.s, enseignant.e.s-chercheur.euse.s et appui.e.s à la recherche, membres ou associé.e.s à l'Unité Mixte Internationale Soutenabilité et Résilience - UMI SOURCE (Université Paris-Saclay, UVSQ, IRD).
+
+
+# L'équipe du GTDID
+
+<div class="team-grid">
+
+<!-- Alexandre -->
+<div class="team-card">
+  <img src="../images/AMATHIEU.jpg" alt="Alexandre Mathieu" class="team-photo">
+  <h3>Alexandre Mathieu</h3>
+  <p>Postdoctorant en économie politique à l’UMI SOURCE (UVSQ, Paris-Saclay, IRD).  
+  Ses travaux portent sur les emplois verts comme levier de résilience et de soutenabilité dans les Suds.</p>
+
+  <a href="https://amathieuln.github.io/CV_AM/" class="cv-button" target="_blank">
+    CV ↗
+  </a>
+</div>
+
+<!-- Yanis -->
+<div class="team-card">
+  <img src="../images/YRIHI.jpg" alt="Yanis Rihi" class="team-photo">
+  <h3>Yanis Rihi</h3>
+  <p>Doctorant en économie à l’UMI SOURCE (UVSQ, Paris-Saclay, IRD).  
+  Il développe une économie politique des transitions justes à l’échelle Nords-Suds.</p>
+  <a href="https://www.umi-source.uvsq.fr/m-yanis-rihi" class="cv-button" target="_blank">CV ↗</a>
+</div>
+
+<!-- Mansour -->
+<div class="team-card">
+  <img src="../images/MANSOUR.jpg" alt="Mouhamadou Mansour Nguirane" class="team-photo">
+  <h3>Mouhamadou M. Nguirane</h3>
+  <p>Doctorant en géographie et hydrologie à l’UMI SOURCE (UCAD).  
+  Spécialiste de la gouvernance de l’eau en milieu rural et des politiques de transfert d’eau potable.</p>
+  <a href="https://www.umi-source.uvsq.fr/mouhamadou-mansour-nguirane" class="cv-button" target="_blank">CV ↗</a>
+</div>
+
+<!-- Ephi -->
+<div class="team-card">
+  <img src="../images/EPHI.jpg" alt="Ephigénie Mackane Madioune" class="team-photo">
+  <h3>Ephigénie M. Madioune</h3>
+  <p>Doctorante en géographie et hydrologie à l’UMI SOURCE (UCAD).  
+  Travaille sur l’impact des changements climatiques sur les ressources en eau.</p>
+  <a href="https://www.umi-source.uvsq.fr/ephigenie-mackane-madioune" class="cv-button" target="_blank">CV ↗</a>
+</div>
+
+<!-- Daouda -->
+<div class="team-card">
+  <img src="../images/photo.jpg" alt="Loïc Pian" class="team-photo">
+  <h3>Daouda</h3>
+  <p>Doctorant en géographie et hydrologie à l’UMI SOURCE (UCAD).  
+ Sujet .</p>
+  <a href="https://www.umi-source.uvsq.fr/m-loic-pian" class="cv-button" target="_blank">CV ↗</a>
+</div>
+
+<!-- Ravaka -->
+<div class="team-card">
+  <img src="../images/photo.jpg" alt="Ravaka" class="team-photo">
+  <h3>Ravaka</h3>
+  <p>Doctorante en économie à l’UMI SOURCE (Université d'Antananarivo).  
+ Sujet .</p>
+  <a href="" class="cv-button" target="_blank">CV ↗</a>
+</div>
+
+<!-- Loïc -->
+<div class="team-card">
+  <img src="../images/PIAN.jpg" alt="Loïc Pian" class="team-photo">
+  <h3>Loïc Pian</h3>
+  <p>Personnel d’appui à la recherche à l’UMI SOURCE (UVSQ, Paris-Saclay, IRD).  
+  Coordonne les antennes et contribue aux travaux sur les inégalités de recherche.</p>
+  <a href="https://www.umi-source.uvsq.fr/m-loic-pian" class="cv-button" target="_blank">CV ↗</a>
+</div>
+
+</div>

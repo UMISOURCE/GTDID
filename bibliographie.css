@@ -1,0 +1,105 @@
+/* Layout */
+.biblio-container {
+  max-width: 900px;
+  margin: auto;
+  padding: 20px;
+}
+
+/* Search bar */
+#biblio-search {
+  width: 100%;
+  padding: 10px;
+  font-size: 1em;
+  margin-bottom: 20px;
+}
+
+/* Filters */
+#biblio-filters {
+  margin-bottom: 20px;
+}
+
+.filter-btn {
+  margin-right: 10px;
+  padding: 6px 12px;
+  border: none;
+  background: #ddd;
+  cursor: pointer;
+}
+
+.filter-btn.active {
+  background: #0077cc;
+  color: white;
+}
+
+/* Card */
+.biblio-card {
+  background: white;
+  padding: 16px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+  border: 1px solid #e5e5e5;
+}
+
+/* Title */
+.biblio-title {
+  margin: 0 0 8px;
+  font-size: 1.2em;
+}
+
+/* Meta */
+.biblio-meta {
+  margin-bottom: 8px;
+  color: #444;
+  font-size: 0.95em;
+}
+
+/* Tags */
+.biblio-tags {
+  margin-bottom: 10px;
+}
+
+.tag {
+  display: inline-block;
+  background: #0077cc;
+  color: white;
+  padding: 3px 8px;
+  margin-right: 6px;
+  border-radius: 6px;
+  font-size: 0.75em;
+}
+
+/* Links */
+.biblio-links a {
+  margin-right: 12px;
+  color: #0077cc;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+/* Abstracts */
+.abstract-section {
+  margin-top: 12px;
+}
+
+.abstract-short,
+.abstract-full {
+  font-style: italic;
+  font-size: 0.9em;
+  line-height: 1.4;
+}
+
+.abstract-full {
+  display: none;
+}
+
+/* Read more button */
+.abstract-toggle {
+  margin-top: 8px;
+  padding: 6px 12px;
+  background: #0077cc;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 0.85em;
+}

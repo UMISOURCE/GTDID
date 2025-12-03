@@ -1,0 +1,19 @@
+---
+title: "Redirection"
+format: html
+---
+
+```{=html}
+<script>
+  // Détecte la langue du navigateur
+  const lang = navigator.language || navigator.userLanguage;
+
+  // Redirige vers la version française si la langue commence par "fr"
+  if (lang && lang.toLowerCase().startsWith("fr")) {
+    window.location.href = "fr/";
+  } else {
+    window.location.href = "en/";
+  }
+</script>
+```
+<p>Redirection en cours…</p>

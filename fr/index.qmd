@@ -1,0 +1,44 @@
+---
+title: "Groupe de travail sur les disparités et inégalités doctorales (GTDID)"
+format:
+  html:
+    page-layout: article
+---
+
+*Ce site est proposé en plusieurs langues : français, anglais et wolof. Veuillez cliquer sur l'onglet "Langue" en haut à droite pour changer de langue.*
+
+::: aside
+### 📰 Actualités
+
+**📘 Nouvelle publication**\
+Mathieu, A., Rihi, Y., Massera, M., Moign, L., Nguirane, M., Madioune, E., Randriantseheno, M., Pian, L. (décembre 2025). "Inégalités doctorales entre les Nords et les Suds : Revue de littérature" in *Études doctorales africaines. Diversité de situations et enjeux communs*. Éditions IRD & African Minds.
+
+---
+
+**🌍 International Workshop — CREONS**  
+📅 **12 décembre 2025** — UVSQ  
+Atelier international consacré aux inégalités de recherche et à la coopération scientifique équitable entre Nords et Suds.
+
+👉 Plus d’informations :  
+<https://www.umi-source.uvsq.fr/international-workshop-towards-an-equitable-and-open-global-north-south-research-community-creons>
+:::
+
+## Inégalités de recherche entre les Nords et les Suds
+
+Le Groupe de travail sur les disparités et inégalités doctorales (GTDID) réunit des doctorant.e.s, chercheur.euse.s, enseignant.e.s-chercheur.euse.s et appui.e.s à la recherche, membres ou associé.e.s à l'Unité Mixte Internationale Soutenabilité et Résilience - UMI SOURCE (Université Paris-Saclay, UVSQ, IRD), issues de ses antennes en Côte d'Ivoire, France, Madagascar et Sénégal.
+
+Cette initiative vise à documenter et analyser les inégalités dans la recherche scientifique, avec un accent particulier sur les disparités entre les Nords et les Suds. L'objectif central du GTDID est d’examiner les inégalités doctorales afin de répondre à une question essentielle : comment mener des recherches robustes dans des contextes structurellement inégaux ?
+
+## Science ouverte et souveraineté scientifique : un levier, mais aussi un espace potentiel d'inégalités
+
+Le GTDID interroge le rôle de la science ouverte comme possible rempart aux asymétries scientifiques. Alors qu'elle est souvent présentée comme un instrument de démocratisation de la recherche, la science ouverte nécessite aussi des ressources, des infrastructures et des compétences qui font défaut dans de nombreux contextes des Suds - au risque de reproduire les dépendances et les vulnérabilités existantes.
+
+## Une articulation forte avec les projets structurants de l'UMI SOURCE
+
+Le GTDID s'inscrit en coordination étroite avec deux dispositifs de l'UMI SOURCE :
+
+-   le **Projet Structurant de Formation "Coopérative de recherche équitable et ouverte Nords-Suds" (PSF CREONS)**, financé par l'IRD à hauteur de **30 000 €** sur trois ans (2024-2027), vise à consolider une coopérative de recherche équitable entre les antennes de l'UMI SOURCE en Côte d'Ivoire, France, Madagascar et Sénégal. Ce programme repose sur le développement du **protocole T2VA** (science ouverte comme outils de Travail, de Valorisation, de Vérification et d'Accompagnement) et répond directement aux inégalités de recherche en développant des formations, des outils partagés et une culture de reproductibilité scientifique.
+
+-   En parallèle, le **projet ANR CREONS** prolonge et approfondit ces dynamiques. Son premier Work Package (WP1) s’appuie sur les travaux du GTDID pour constituer une base de données originale sur les conditions de recherche en Afrique francophone ; le WP2 analyse et co-développe, en lien étroit avec le PSF CREONS, des solutions en matière de science ouverte et d’intelligence artificielle ; enfin, le WP3 propose une gouvernance équitable de la décarbonation de la recherche. L’ensemble du projet repose sur un cadre conceptuel unificateur, celui de la **« transition juste de la recherche »**, qui articule justice épistémique, justice distributive et justice environnementale
+
+Ainsi, le GTDID constitue à la fois une composante scientifique majeure et un moteur de transformation des programmes CREONS, qu’il alimente en données, en analyses et en perspectives critiques sur les inégalités doctorales
