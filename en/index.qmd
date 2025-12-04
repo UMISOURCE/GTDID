@@ -1,9 +1,44 @@
 ---
-title: "Welcome"
+title: "Working Group on Doctoral Disparities and Inequalities (GTDID)"
+format:
+  html:
+    page-layout: article
 ---
 
-# 🇬🇧 Welcome to my website
+*This website is available in several languages: French, English, and Wolof. Please click on the ‘Language’ tab at the top right to change the language.*
 
-This is the **English** version of the site.
+::: aside
+### 📰 News
 
-Use the navigation bar to browse between pages.
+**📘 New publication**\
+Mathieu, A., Rihi, Y., Massera, M., Moign, L., Nguirane, M., Madioune, E., Randriantseheno, M., Pian, L. (décembre 2025). "Inégalités doctorales entre les Nords et les Suds : Revue de littérature" in *Études doctorales africaines. Diversité de situations et enjeux communs*. Éditions IRD & African Minds.
+
+---
+
+**🌍 International Workshop — CREONS**  
+📅 **12th December 2025** — UVSQ  
+International workshop on research inequalities and equitable scientific cooperation between the North and South.
+
+👉 Further information:  
+<https://www.umi-source.uvsq.fr/international-workshop-towards-an-equitable-and-open-global-north-south-research-community-creons>
+:::
+
+## Research inequalities between the North and the South
+
+The Working Group on Doctoral Disparities and Inequalities (GTDID) brings together doctoral students, researchers, teacher-researchers and research support staff who are members or associates of the International Joint Unit on Sustainability and Resilience - UMI SOURCE (Université Paris-Saclay, UVSQ, IRD), from its branches in Côte d'Ivoire, France, Madagascar and Senegal.
+
+This initiative aims to document and analyse inequalities in scientific research, with a particular focus on disparities between the Global North and South. The central objective of the GTDID is to examine doctoral inequalities in order to answer a key question: how can robust research be conducted in structurally unequal contexts?
+
+## Open science and scientific sovereignty
+
+The GTDID questions the role of open science as a possible bulwark against scientific asymmetries. While it is often presented as a tool for democratising research, open science also requires resources, infrastructure and skills that are lacking in many contexts in the Global South, at the risk of reproducing existing dependencies and vulnerabilities.
+
+## Strong links with the UMI SOURCE's structural projects
+
+The GTDID works in close coordination with two UMI SOURCE programmes:
+
+-   The **Structuring Training Project ‘Fair and Open North-South Research Cooperative’ (PSF CREONS)**, funded by the IRD to the tune of **€30,000** over three years (2024-2027), aims to consolidate a fair research cooperative between the branches of the UMI SOURCE in Côte d'Ivoire, France, Madagascar and Senegal. This programme is based on the development of the **T2VA protocol** (open science as a tool for Work, Valorisation, Verification and Support) and directly addresses research inequalities by developing training courses, shared tools and a culture of scientific reproducibility.
+
+-   At the same time, the **ANR CREONS project** extends and deepens these dynamics. Its first Work Package (WP1) builds on the work of the GTDID to create an original database on research conditions in French-speaking Africa; WP2 analyses and co-develops, in close collaboration with the PSF CREONS, solutions in the field of open science and artificial intelligence; Finally, WP3 proposes equitable governance for the decarbonisation of research. The entire project is based on a unifying conceptual framework, that of the **‘just transition of research’**, which articulates epistemic justice, distributive justice and environmental justice.
+
+Thus, the GTDID is both a major scientific component and a driving force behind the transformation of CREONS programmes, which it feeds with data, analyses and critical perspectives on doctoral inequalities.

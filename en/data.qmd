@@ -1,1 +1,11 @@
+---
+title: "Data management"
+---
 
+## Data Management Plan
+
+## Data deposit
+
+The results of our anonymous questionnaire are archived on the DataSuds platform of the French National Research Institute for Sustainable Development (IRD).
+
+The DataSuds collection : <https://dataverse.ird.fr/dataverse/disparites-inegalites-doctorales>

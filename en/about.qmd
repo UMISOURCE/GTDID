@@ -1,8 +1,30 @@
 ---
-title: "About"
+title: "Methodological framework"
+bibliography: references.bib
 ---
 
-# About
+## A combined analytical framework: SLAs, endowment inequalities and threshold effects
 
-This is the English “About” page.\
-You can add your bio, research description, or anything else.
+To analyse doctoral disparities between the North and South, we jointly employ the **Sustainable Livelihood Approach (SLA)** and an analysis of **inequalities in endowments and threshold effects**. This approach helps us understand how access—or lack of access—to certain resources affects the ability to pursue a doctoral degree and participate in **open science**.
+
+From this perspective, insufficient financial, material or human capital can lead to an **academic poverty trap**, echoing the mechanisms described by @poverty2011 and @azariadis2005. Conversely, when these resources exceed a certain threshold, they fuel a virtuous circle in which institutional recognition, scientific networks and access to open science mechanisms reinforce each other.
+
+## The Sustainable Livelihood Approach: understanding resources and vulnerability
+
+The SLA is based on the principle that individuals mobilise different types of capital — **human, social, natural, financial and physical** — to strengthen their livelihoods and adaptive capacity. These resources form the basis on which actors design and diversify their strategies [@quandt2018a], with the central objective of reducing vulnerability and strengthening resilience.
+
+Analytically, this framework highlights how households manage their resources and interact with local and national institutions. However, several critics point out that the SLA has long focused on the micro level and has sometimes underestimated the **structural and political** dimensions that shape access to resources [@natarajan2022]. These authors point out in particular that the approach tends to relegate power relations to mere context, at the risk of **depoliticising** the processes of vulnerability.
+
+Recent work therefore emphasises the need to place livelihoods within **global dynamics** (globalisation, structural dependencies) and **environmental dynamics** (climate change), while taking into account historical legacies and power configurations. It is within this broader perspective, sensitive to issues of global justice, that our project is situated.
+
+## Capabilities, threshold effects and open science
+
+In addition, the **capabilities approach**, inspired by Amartya Sen, emphasises the actual ability of doctoral students and researchers to convert their resources into concrete actions. This framework encourages us to look beyond the simple question of resource allocation and examine the effective freedom to engage in scientific activity: publishing in open access, joining international networks, participating in open science, etc.
+
+Analysis using **threshold effects** then makes it possible to formalise two opposing dynamics:
+
+-   an **insufficient critical threshold** can trap students in a cycle of academic underachievement;
+
+-   a **sufficient funding threshold** triggers a cumulative dynamic of recognition and dissemination of research.
+
+From this perspective, **open science** appears both as a **lever for emancipation** and as a **space where structural inequalities are reproduced** when conditions of access to resources remain unequal.

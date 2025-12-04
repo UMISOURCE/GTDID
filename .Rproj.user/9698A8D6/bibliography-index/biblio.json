@@ -1,4 +1,172 @@
 {
-    "sources": [],
+    "sources": [
+        {
+            "DOI": "10.1515/9781400841295.fm",
+            "URL": "http://dx.doi.org/10.1515/9781400841295.fm",
+            "id": "frontmat2011",
+            "issued": {
+                "date-parts": [
+                    [
+                        2011,
+                        12,
+                        31
+                    ]
+                ]
+            },
+            "page": "i-iv",
+            "publisher": "Princeton University Press",
+            "title": "Frontmatter",
+            "type": "chapter"
+        },
+        {
+            "DOI": "10.1016/S1574-0684(05)01005-1",
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1574068405010051",
+            "author": [
+                {
+                    "family": "Azariadis",
+                    "given": "Costas"
+                },
+                {
+                    "family": "Stachurski",
+                    "given": "John"
+                }
+            ],
+            "id": "azariadis2005",
+            "issued": {
+                "date-parts": [
+                    [
+                        2005
+                    ]
+                ]
+            },
+            "language": "en",
+            "note": "DOI: 10.1016/S1574-0684(05)01005-1",
+            "page": "295-384",
+            "publisher": "Elsevier",
+            "title": "Chapter 5 Poverty Traps",
+            "type": "chapter",
+            "volume": "1"
+        },
+        {
+            "DOI": "10.1016/j.worlddev.2018.02.024",
+            "URL": "http://dx.doi.org/10.1016/j.worlddev.2018.02.024",
+            "author": [
+                {
+                    "family": "Quandt",
+                    "given": "Amy"
+                }
+            ],
+            "container-title": "World Development",
+            "id": "quandt2018",
+            "issued": {
+                "date-parts": [
+                    [
+                        2018,
+                        7
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "253-263",
+            "title": "Measuring livelihood resilience: The Household Livelihood Resilience Approach (HLRA)",
+            "title-short": "Measuring livelihood resilience",
+            "type": "article-journal",
+            "volume": "107"
+        },
+        {
+            "DOI": "10.1016/j.worlddev.2018.02.024",
+            "URL": "http://dx.doi.org/10.1016/j.worlddev.2018.02.024",
+            "author": [
+                {
+                    "family": "Quandt",
+                    "given": "Amy"
+                }
+            ],
+            "container-title": "World Development",
+            "id": "quandt2018a",
+            "issued": {
+                "date-parts": [
+                    [
+                        2018,
+                        7
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "253-263",
+            "title": "Measuring livelihood resilience: The Household Livelihood Resilience Approach (HLRA)",
+            "title-short": "Measuring livelihood resilience",
+            "type": "article-journal",
+            "volume": "107"
+        },
+        {
+            "DOI": "10.1016/j.worlddev.2022.105898",
+            "URL": "http://dx.doi.org/10.1016/j.worlddev.2022.105898",
+            "author": [
+                {
+                    "family": "Natarajan",
+                    "given": "Nithya"
+                },
+                {
+                    "family": "Newsham",
+                    "given": "Andrew"
+                },
+                {
+                    "family": "Rigg",
+                    "given": "Jonathan"
+                },
+                {
+                    "family": "Suhardiman",
+                    "given": "Diana"
+                }
+            ],
+            "container-title": "World Development",
+            "id": "natarajan2022",
+            "issued": {
+                "date-parts": [
+                    [
+                        2022,
+                        7
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "105898",
+            "title": "A sustainable livelihoods framework for the 21st century",
+            "type": "article-journal",
+            "volume": "155"
+        },
+        {
+            "DOI": "10.1515/9781400841295",
+            "URL": "http://dx.doi.org/10.1515/9781400841295",
+            "editor": [
+                {
+                    "family": "Bowles",
+                    "given": "Samuel"
+                },
+                {
+                    "family": "Durlauf",
+                    "given": "Steven N."
+                },
+                {
+                    "family": "Hoff",
+                    "given": "Karla"
+                }
+            ],
+            "id": "poverty2011",
+            "issued": {
+                "date-parts": [
+                    [
+                        2011,
+                        12,
+                        31
+                    ]
+                ]
+            },
+            "publisher": "Princeton University Press",
+            "title": "Poverty traps",
+            "type": "book"
+        }
+    ],
     "project_biblios": []
 }
