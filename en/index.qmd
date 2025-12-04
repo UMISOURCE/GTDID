@@ -13,13 +13,13 @@ format:
 **📘 New publication**\
 Mathieu, A., Rihi, Y., Massera, M., Moign, L., Nguirane, M., Madioune, E., Randriantseheno, M., Pian, L. (décembre 2025). "Inégalités doctorales entre les Nords et les Suds : Revue de littérature" in *Études doctorales africaines. Diversité de situations et enjeux communs*. Éditions IRD & African Minds.
 
----
+------------------------------------------------------------------------
 
-**🌍 International Workshop — CREONS**  
-📅 **12th December 2025** — UVSQ  
+**🌍 International Workshop — CREONS**\
+📅 **12th December 2025** — UVSQ\
 International workshop on research inequalities and equitable scientific cooperation between the North and South.
 
-👉 Further information:  
+👉 Further information:\
 <https://www.umi-source.uvsq.fr/international-workshop-towards-an-equitable-and-open-global-north-south-research-community-creons>
 :::
 
